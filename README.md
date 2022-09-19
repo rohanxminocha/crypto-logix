@@ -1,1 +1,1 @@
-# crypto-logix
+# Crypto Logix
